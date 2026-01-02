@@ -26,6 +26,21 @@
     
     
     ---------------------------------------------------------------
+
+    Uyarı ! Hardisk Görmezse  sırayla terminale Yazın
+    
+     echo "drivetemp" | sudo tee /etc/modules-load.d/drivetemp.conf     Enter
+
+     lsmod | grep drivetemp               Enter
+    
+     sudo modprobe drivetemp               Enter
+
+   
+   Artık sürekli olarak HDD nizi görektir . 
+   
+
+    ---------------------------------------------------------------
+
     
   Özellikler
 
