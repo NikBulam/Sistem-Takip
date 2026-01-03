@@ -12,17 +12,17 @@
 
     * sudo apt install python3-pyqt5 python3-psutil lm-sensors     Komutu termianele yapıştırıp kurumlum yapabilirsiniz.
 
-    * Sistem-Gözlem-Deb.deb paketini çift tıklayıp kurulum yapabilirsiniz  .   
+    * Sistem-Gözlem-v1.deb paketini çift tıklayıp kurulum yapabilirsiniz  .   
 
 ---------------------------------------------------------------
 
     Terminalden Kurulum . 
 
-    * Sistem-Gözlem-Deb.deb   paketini Masaüstü ne koyun 
+    * Sistem-Gözlem-v1.deb   paketini Masaüstü ne koyun 
 
     *  cd ~/Masaüstü
 
-    *  sudo dpkg -i Sistem-Gözlem-Deb.deb 
+    *  sudo dpkg -i Sistem-Gözlem-v1.deb 
     
     
     ---------------------------------------------------------------
